@@ -16,6 +16,8 @@ bash pip install -r requirements.txt
 Crear app:
 python manage.py startapp hr
 
+Crear Base de datos en MYSQL, Con nombre examen
+
 Crear .env con los datos:
 DB_NAME = examen
 DB_USER = usuario
